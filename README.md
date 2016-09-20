@@ -7,7 +7,7 @@ Base-alpine provides an image suitable for running Alpine Linux on ARM devices (
 
 -------
 
-** This is ARM fork of [GitHub](http://github.com/sillelien/base-alpine) . **
+This is ARM fork of [sillelien/base-alpine](http://github.com/sillelien/base-alpine) .
 
 -------
 
@@ -179,11 +179,6 @@ You can search for packages by name or by file contents here: http://pkgs.alpine
  `apk add python python-dev py-pip`
  
  `curl https://bootstrap.pypa.io/ez_setup.py  | python`
- 
-### Java
- 
- Use our `vizzbuzz/base-java` image which adds Java to this image.
-
 
 ##Credits
 
