@@ -7,7 +7,7 @@ Base-alpine provides an image suitable for running Alpine Linux on ARM devices (
 
 -------
 
-** This is ARM fork of [GitHub](http://github.com/sillelien/base-alpine).**
+** This is ARM fork of [GitHub](http://github.com/sillelien/base-alpine) . **
 
 -------
 
