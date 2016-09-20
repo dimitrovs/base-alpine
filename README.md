@@ -1,7 +1,7 @@
 
 # base-alpine-armhf
 
-Base-alpine provides an image suitable for running Alpine Linux on ARM devices (like the RaspberryPi). It comes with S6 process manager by default, if you don't use a process manager things can get a bit messy.
+Base-alpine-armhf provides an image suitable for running Alpine Linux on ARM devices (like the RaspberryPi). It comes with S6 process manager by default, if you don't use a process manager things can get a bit messy.
 
 [![](https://badge.imagelayers.io/stefand/base-alpine-armhf.svg)](https://imagelayers.io/?images=stefand/base-alpine-armhf:latest 'Get your own badge on imagelayers.io')
 
